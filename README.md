@@ -1,8 +1,6 @@
 # Readme
 Domain Labs: Readme
 
-Here's a simplified and easy-to-copy version of the README:
-
 ---
 
 # Domain Labs  
