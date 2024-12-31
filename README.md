@@ -100,14 +100,5 @@ We welcome contributions to improve Domain Labs! Please follow these steps:
 
 ---
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
----
-
 ## Feedback  
 We’d love to hear your thoughts! Feel free to open an issue or reach out with suggestions for improvement.  
-
----
-
-Let me know if you'd like to adjust anything else!
